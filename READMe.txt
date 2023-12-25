@@ -1,1 +1,1 @@
-This is link : https://github.com/THARUN-KUMAR-GOULI/CoffieJunkie.git
+This is link : https://tharun-kumar-gouli.github.io/CoffieJunkie/
